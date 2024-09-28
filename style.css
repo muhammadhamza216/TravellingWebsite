@@ -112,8 +112,8 @@ h3{
    border: 1.9px solid rgb(28, 129, 216);
 }
 .btn{
- margin-left: 520px;
  margin-top: 30px;
+ text-align: center;
 }
 .btn button{
     width: 150px;
@@ -242,7 +242,7 @@ margin-top: 30px;
 }
 .Repeart-guest{
   float: left;
-  margin-left: 45px;
+  margin-left: 55px;
 }
 .Repeart-guest img{
     width: 60px;
@@ -259,9 +259,8 @@ margin-top: 30px;
     margin-top: -18px;
 }
 .btn-find{
-position: absolute;
 margin-top: 200px;
-margin-left: 550px;
+text-align: center;
 }
 .btn-find button{
     padding: 8px;
@@ -289,7 +288,7 @@ margin-left: 550px;
     width: 1000px;
     height: 500px;
     background-color: white;
-    margin-left: 125px;
+    margin-left: 180px;
     margin-top: 50px;
     border-radius: 5px;
    
@@ -408,7 +407,7 @@ margin-left: 550px;
    margin-left: 70px;
 }
 .lft-img{
-    margin-left: -1240px;
+    margin-left: -1290px;
 }
 .lft-img img{
     width: 40px;
@@ -417,7 +416,7 @@ margin-left: 550px;
     position: absolute;
 }
 .lft-mg{
-    margin-left: 853px;
+    margin-left: 850px;
 }
 .lft-mg img{
     width: 35px;
@@ -701,12 +700,15 @@ margin-left: 550px;
     width: 150px;
     height: 40px;
     padding: 8px;
-    margin-top: 25px;
     font-size: 15px;
     color: white;
     background-color: #854ec9;
     border: none;
     border-radius: 5px;
+    position: absolute;
+    margin-left: -690px;
+    margin-top: 370px;
+
 }
 
 .container8{
